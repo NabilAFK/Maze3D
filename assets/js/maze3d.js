@@ -37,7 +37,7 @@
         messageContainer.style.border = "1px solid #333";
 
         var message = document.createElement("h1");
-        message.innerHTML = "Use Up/Down/Left/Right arrows or the virtual pad to move and rotate the camera";
+        message.innerHTML = "Use the up, down, right, and left arrows to move around and rotate the camera";
         message.style.textAlign = "center";
         message.style.color = "#ddd";
         message.style.padding = "15px";
